@@ -2,7 +2,7 @@
 
  A full-featured blogging application built with Flask, featuring user authentication, password reset, profile management, pagination, and CRUD functionality for blog posts.
 
- ![Home Page](screenshots/home.png) 
+ ![Home Page](C:\Users\User\Pictures\Screenshots\Screenshot (91).png) 
  <hr>
 
  # 🚀 Features
