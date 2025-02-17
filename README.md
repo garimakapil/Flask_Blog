@@ -149,9 +149,8 @@ This project is licensed under the [MIT License](https://github.com/Goyam02/Flas
 <hr>
 
 # 📬 Contact
-👤 Goyam Jain <br>
-📧 goyamjain02@gmail.com <br>
-🔗 [LinkedIn](https://www.linkedin.com/in/goyam02) <br>
+👤 Garima Kapil <br>
+📧 garimakapil316@gmail.com <br>
 
 <hr>
 
